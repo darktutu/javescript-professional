@@ -11,4 +11,4 @@ var falseValue = false;
 result = falseValue && true;
 alert(result); //false
 ```
-建议有永远不要使用 Boolean 类型
+建议有永远不要使用 Boolean 类型。
